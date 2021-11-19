@@ -20,4 +20,4 @@ package/services manage system
 
 Live site visit  here : https://car-sales-5a40f.web.app/
 
-server-side repo : https://github.com/programming-hero-web-course-4/niche-website-client-side-Supriya-debnath
+client-side repo : https://github.com/programming-hero-web-course-4/niche-website-client-side-Supriya-debnath
